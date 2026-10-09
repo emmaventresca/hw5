@@ -1,0 +1,10 @@
+variable,label,n,mean,sd
+per_capita_income,Per capita income ($),1228,36156.13680781759,10504.066001854972
+total_population,Total population,1228,231862.63273615635,506835.173747058
+own_children_under6,Own children under 6,1228,15440.871335504886,34274.95350240803
+own_children_under6_all_parents_lf,"Own children <6, all resident parents in LF",1228,10419.918566775244,22637.014507636697
+median_gross_rent,Median gross rent ($/mo),1227,1051.766911165444,341.8991548473216
+share_women_25plus_bachelors_plus,Share women 25+ with bachelor's+,1228,0.30130764169381113,0.10698092006293113
+share_women_16_64_ft_yr,Share women 16-64 full-time year-round,1228,0.4366865928338762,0.06827909343208527
+share_kids_under6,Share of population under 6,1228,0.06601813355048859,0.012350036956350592
+share_kids_under6_need_care,Share kids under 6 needing care,1227,0.6727956886715567,0.09057423154165538

@@ -1,0 +1,16 @@
+# Secrets — the Census API key must never be committed
+.env
+.Renviron
+*api_key*
+*API_KEY*
+
+# Large re-downloadable raw data (scripts 12 and 13 rebuild it)
+data/raw/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
